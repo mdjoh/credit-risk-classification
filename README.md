@@ -21,8 +21,8 @@ Below is a table of mean Macro F1 score results after applying the specified ste
 | Step      | Mean Macro F1 Score|
 | ----------- | ----------- |
 | 1. Baseline      | 0.4972       |
-| 2. Feautre engineering   | 0.7047        |
-| 3. Feautre selection   | 0.7084        |
+| 2. Feature engineering   | 0.7047        |
+| 3. Feature selection   | 0.7084        |
 | 4. Hyperparameter tuning   | 0.7821        |
 | 5. Test data   | 0.7992*        |
 
